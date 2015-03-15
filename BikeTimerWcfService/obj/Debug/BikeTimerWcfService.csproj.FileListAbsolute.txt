@@ -1,0 +1,6 @@
+C:\Dev\BikeTimer\BikeTimerWcfService\BikeTimerWcfService\bin\BikeTimerWcfService.dll.config
+C:\Dev\BikeTimer\BikeTimerWcfService\BikeTimerWcfService\bin\BikeTimerWcfService.dll
+C:\Dev\BikeTimer\BikeTimerWcfService\BikeTimerWcfService\bin\BikeTimerWcfService.pdb
+C:\Dev\BikeTimer\BikeTimerWcfService\BikeTimerWcfService\obj\Debug\BikeTimerWcfService.csprojResolveAssemblyReference.cache
+C:\Dev\BikeTimer\BikeTimerWcfService\BikeTimerWcfService\obj\Debug\BikeTimerWcfService.dll
+C:\Dev\BikeTimer\BikeTimerWcfService\BikeTimerWcfService\obj\Debug\BikeTimerWcfService.pdb
